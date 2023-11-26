@@ -24,5 +24,6 @@
   (fp_circle (center 0 0) (end 7.62 0)
     (stroke (width 0.12) (type solid)) (fill solid) (layer "F.CrtYd") (tstamp 6db09822-6d01-4282-93ad-1198e6dd217e))
   (pad "1" thru_hole circle (at 0 0) (size 6.8 6.8) (drill 6.4) (layers "*.Cu" "*.Mask") (tstamp 4c3520f8-4fb0-46c9-b048-13db331a1b3d))
-  (pad "1" connect circle (at 0 0) (size 12.8 12.8) (layers "F.Cu" "F.Mask") (tstamp 209d2c7d-5d84-4a82-9a91-e053c8fa0ca5))
+  (pad "1" smd circle (at 0 0) (size 12.8 12.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 133fe52f-f50d-40b7-9c76-a4e6c0b0719e))
+  (pad "1" smd circle (at 0 0) (size 12.8 12.8) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 209d2c7d-5d84-4a82-9a91-e053c8fa0ca5))
 )
