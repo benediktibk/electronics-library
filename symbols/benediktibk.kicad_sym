@@ -2502,7 +2502,7 @@
     (property "Value" "MountingHole_Pad_M6" (at 0 4.445 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6_Pad" (at 0 0 0)
+    (property "Footprint" "benediktibk:MountingHole_6.4mm_M6_Pad_TopBottom" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 0 0)
