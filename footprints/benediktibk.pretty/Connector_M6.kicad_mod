@@ -16,6 +16,8 @@
     (tstamp 38dbbd14-22ca-4b9c-bd1f-bad52026a759)
   )
   (fp_circle (center 0 0) (end 7.615773 0)
+    (stroke (width 0.12) (type default)) (fill none) (layer "B.SilkS") (tstamp 32a8ea9b-8172-4101-9248-528fccc7d9c6))
+  (fp_circle (center 0 0) (end 7.615773 0)
     (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS") (tstamp e39b7a02-fb64-473c-930f-3a604ef849bb))
   (fp_circle (center 0 0) (end 6.4 0)
     (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 87521af2-be27-4404-bf17-8e97fbcbc99d))
