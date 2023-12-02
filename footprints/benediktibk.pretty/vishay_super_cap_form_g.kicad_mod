@@ -48,4 +48,9 @@
   (pad "1" thru_hole circle (at 0 -10) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp afa58e24-8f40-4d9a-8f83-5b96b470a99e))
   (pad "2" thru_hole circle (at -5 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp a7e8ee5f-cd6f-47ec-825e-878a7a5cefbf))
   (pad "3" thru_hole circle (at 5 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ddf172d1-16ab-4550-9cb0-a12f6f84620a))
+  (model "/home/benedikt/Development/electronics-library/3d-models/MAL219690101E3.stp"
+    (offset (xyz 0 13 15))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
