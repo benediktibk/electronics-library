@@ -81,7 +81,7 @@
   (pad "27" smd roundrect (at 2.875 -3.575) (size 1.55 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 82db0d23-ca17-4143-9052-350c00dff0af))
   (pad "28" smd roundrect (at 2.875 -4.225) (size 1.55 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 082a9f06-29b3-4f9e-850e-0c72add7cbc4))
   (pad "29" smd rect (at 0 0) (size 2.75 6.2) (layers "F.Cu" "F.Mask") (tstamp 76079695-815d-4c4c-9fb8-3d75b7748592))
-  (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm.wrl"
+  (model "/home/benedikt/Development/electronics-library/3d-models/LM5176PWPR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
