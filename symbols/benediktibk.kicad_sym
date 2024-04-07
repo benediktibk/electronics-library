@@ -2907,7 +2907,7 @@
     (property "Datasheet" "~" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "RS order number" " 238-3683" (at 0 0 0)
+    (property "RS order number" "238-3683" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "inductor choke coil reactor magnetic" (at 0 0 0)
