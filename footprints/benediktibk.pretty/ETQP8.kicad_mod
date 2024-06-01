@@ -1,50 +1,197 @@
-(footprint "ETQP8" (version 20221018) (generator pcbnew)
-  (layer "F.Cu")
-  (descr "ETQP8")
-  (tags "Inductor")
-  (attr smd)
-  (fp_text reference "L**" (at 0 0) (layer "F.SilkS")
-      (effects (font (size 1.27 1.27) (thickness 0.254)))
-    (tstamp 39834b24-47db-460e-a150-6fab6b52db9c)
-  )
-  (fp_text value "ETQP8" (at 0 0) (layer "F.SilkS") hide
-      (effects (font (size 1.27 1.27) (thickness 0.254)))
-    (tstamp 0617aab3-0c55-4412-bceb-8f6f81da09d1)
-  )
-  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-      (effects (font (size 1.27 1.27) (thickness 0.254)))
-    (tstamp 786db11b-99bf-45ce-899b-60c20aa31a18)
-  )
-  (fp_circle (center -12.85 0) (end -12.85 0.05)
-    (stroke (width 0.2) (type solid)) (fill none) (layer "F.SilkS") (tstamp 3e3d8d31-c0c5-4521-b99c-e5d493a466b4))
-  (fp_line (start -7 -7) (end 7 -7)
-    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 6650100c-39c2-4f84-86ec-87d21ce0e9a6))
-  (fp_line (start -7 7) (end -7 -7)
-    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 7cccb2d8-380e-4d39-83c9-cbb35bce1958))
-  (fp_line (start 7 -7) (end 7 7)
-    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp ed91ca11-6d2b-482e-bbcd-72719f571d85))
-  (fp_line (start 7 7) (end -7 7)
-    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp b443c02e-e4c6-427c-b020-459bab5f20ec))
-  (fp_line (start -7 -7) (end 7 -7)
-    (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp 82d737f4-1698-41bf-89ca-fd98497cb253))
-  (fp_line (start -7 7) (end -7 -7)
-    (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp 61cc40c5-9c46-495d-b91d-2a9603b66613))
-  (fp_line (start 7 -7) (end 7 7)
-    (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp a05eff83-92cf-4434-8bce-a7aa47fc7099))
-  (fp_line (start 7 7) (end -7 7)
-    (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp 9e5d7c1d-0b13-4564-9060-e3d093416e06))
-  (pad "1" smd roundrect (at -5.2 0) (size 3 13) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
-    (thermal_bridge_angle 45) (tstamp c159f2e2-92f2-468e-be9f-6e26338f1eff))
-  (pad "2" smd roundrect (at 5.2 0) (size 3 13) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
-    (thermal_bridge_angle 45) (tstamp b8196765-7dff-49d9-9eab-6579277077a5))
-  (model "ETQ-P8M2R5JFA.stp"
-    (offset (xyz -0.970000014 0 4.099999843))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -90))
-  )
-  (model "/home/benedikt/Development/electronics-library/3d-models/ETQ-P8M2R5JFA.stp"
-    (offset (xyz 0 0 4))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 90))
-  )
+(footprint "ETQP8"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ETQP8")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "39834b24-47db-460e-a150-6fab6b52db9c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ETQP8"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0617aab3-0c55-4412-bceb-8f6f81da09d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "ETQP8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa7d2f08-19a1-4f79-885b-c324c50bf52f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f737b3e-c4c6-40d3-b65e-c7586b8837f5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8c64f0d-0931-436c-b7c0-a0448f896991")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -7 -7)
+		(end 7 -7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6650100c-39c2-4f84-86ec-87d21ce0e9a6")
+	)
+	(fp_line
+		(start -7 7)
+		(end -7 -7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7cccb2d8-380e-4d39-83c9-cbb35bce1958")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ed91ca11-6d2b-482e-bbcd-72719f571d85")
+	)
+	(fp_line
+		(start 7 7)
+		(end -7 7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b443c02e-e4c6-427c-b020-459bab5f20ec")
+	)
+	(fp_line
+		(start -7 -7)
+		(end 7 -7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82d737f4-1698-41bf-89ca-fd98497cb253")
+	)
+	(fp_line
+		(start -7 7)
+		(end -7 -7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "61cc40c5-9c46-495d-b91d-2a9603b66613")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a05eff83-92cf-4434-8bce-a7aa47fc7099")
+	)
+	(fp_line
+		(start 7 7)
+		(end -7 7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e5d7c1d-0b13-4564-9060-e3d093416e06")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "786db11b-99bf-45ce-899b-60c20aa31a18")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -5.2 0)
+		(size 3 13)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "c159f2e2-92f2-468e-be9f-6e26338f1eff")
+	)
+	(pad "2" smd roundrect
+		(at 5.2 0)
+		(size 3 13)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "b8196765-7dff-49d9-9eab-6579277077a5")
+	)
+	(model "ETQ-P8M2R5JFA.stp"
+		(offset
+			(xyz -0.970000014 0 4.099999843)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+	(model "/home/benedikt/Development/electronics-library/3d-models/ETQ-P8M2R5JFA.stp"
+		(offset
+			(xyz 0 0 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
 )
