@@ -66,7 +66,6 @@
 			)
 		)
 	)
-	(attr through_hole)
 	(fp_line
 		(start -22.5 -22.5)
 		(end 22.5 -22.5)
@@ -139,7 +138,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "51d80ea8-f457-4956-8701-14e345830640")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/HSB43-454515P.stp"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/HSB43-454515P.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -147,7 +146,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 0 0)
 		)
 	)
 )
