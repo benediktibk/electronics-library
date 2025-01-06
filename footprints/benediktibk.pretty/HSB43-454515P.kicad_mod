@@ -135,7 +135,7 @@
 	)
 	(pad "PAD" smd rect
 		(at 0 0)
-		(size 34 34)
+		(size 4 4)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "51d80ea8-f457-4956-8701-14e345830640")
 	)
