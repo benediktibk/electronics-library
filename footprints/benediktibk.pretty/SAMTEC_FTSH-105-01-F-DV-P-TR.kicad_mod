@@ -324,7 +324,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "c4ce0879-1e6d-429f-aa47-7290eef10a0a")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/FTSH-105-01-F-DV-K.stp"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/FTSH-105-01-F-DV-K.stp"
 		(offset
 			(xyz 0 0 0)
 		)

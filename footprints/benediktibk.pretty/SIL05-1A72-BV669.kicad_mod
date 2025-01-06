@@ -41,7 +41,7 @@
   (pad "2" thru_hole circle (at -2.54 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3731cfdb-85bf-4a8c-be8f-246e13f0d3ef))
   (pad "6" thru_hole circle (at 2.54 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 8149651e-e08d-4954-913c-f9a8aec06804))
   (pad "7" thru_hole circle (at 7.62 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp fde84c40-46d9-4430-ab72-f59f8113115e))
-  (model "/home/benedikt/Development/electronics-library/3d-models/SIL05-1A72-BV669.stp"
+  (model "${BENEDIKTIBK_LIB_DIR}/3d-models/SIL05-1A72-BV669.stp"
     (offset (xyz -7.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

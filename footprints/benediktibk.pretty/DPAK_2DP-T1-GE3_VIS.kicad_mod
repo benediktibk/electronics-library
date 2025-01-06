@@ -553,7 +553,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "c2089863-25d9-4615-92ae-a452edbad67c")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/DPAK_2DP-T1-GE3_VIS.step"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/DPAK_2DP-T1-GE3_VIS.step"
 		(offset
 			(xyz 0 0 0)
 		)

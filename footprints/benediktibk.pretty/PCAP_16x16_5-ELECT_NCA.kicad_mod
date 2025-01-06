@@ -372,7 +372,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a48617b9-6df2-468b-a183-a8c6296cbb5e")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/PCAP_16x16_5-ELECT_NCA.step"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/PCAP_16x16_5-ELECT_NCA.step"
 		(offset
 			(xyz 0 0 0)
 		)

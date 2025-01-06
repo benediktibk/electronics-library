@@ -279,7 +279,7 @@
 		(remove_unused_layers no)
 		(uuid "9ebd17e7-89fa-4c6b-934d-4716808ed04f")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/phoenix_contact_1881626.stp"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/phoenix_contact_1881626.stp"
 		(offset
 			(xyz 4.729999948 -3.910000027 0)
 		)

@@ -183,7 +183,7 @@
 			(xyz -90 0 -90)
 		)
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/ETQ-P8M2R5JFA.stp"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/ETQ-P8M2R5JFA.stp"
 		(offset
 			(xyz 0 0 4)
 		)

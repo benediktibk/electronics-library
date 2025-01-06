@@ -287,7 +287,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "e14082d9-f15e-4b3e-b4f1-dc46cde60ed7")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/PowerPAK_SO-8L_SINGLE.STEP"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/PowerPAK_SO-8L_SINGLE.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

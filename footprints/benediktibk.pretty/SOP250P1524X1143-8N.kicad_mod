@@ -264,7 +264,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "ca1d5ddc-1b67-49e3-ad97-bb0aadff3956")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/NA6252-ALD.stp"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/NA6252-ALD.stp"
 		(offset
 			(xyz 0 0 0)
 		)

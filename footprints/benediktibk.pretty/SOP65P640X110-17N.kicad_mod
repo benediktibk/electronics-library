@@ -278,7 +278,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "6ccf0f0d-4292-44cf-be55-ca754362667c")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/LT8584EFE#PBF.stp"
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/LT8584EFE#PBF.stp"
 		(offset
 			(xyz 0 0 0)
 		)

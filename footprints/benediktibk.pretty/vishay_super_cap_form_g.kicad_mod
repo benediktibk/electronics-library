@@ -67,7 +67,7 @@
   (pad "2" thru_hole oval (at -5 0) (size 2 1) (drill oval 1.25 0.5) (layers "*.Cu" "*.Mask") (tstamp a7e8ee5f-cd6f-47ec-825e-878a7a5cefbf))
   (pad "2" thru_hole oval (at 0 0.1) (size 2 1) (drill oval 1.25 0.5) (layers "*.Cu" "*.Mask") (tstamp aa78fe77-2595-42d3-863c-9e990ffbec99))
   (pad "2" thru_hole oval (at 5 0) (size 2 1) (drill oval 1.25 0.5) (layers "*.Cu" "*.Mask") (tstamp ddf172d1-16ab-4550-9cb0-a12f6f84620a))
-  (model "/home/benedikt/Development/electronics-library/3d-models/MAL219690101E3.stp"
+  (model "${BENEDIKTIBK_LIB_DIR}/3d-models/MAL219690101E3.stp"
     (offset (xyz 0 10 15))
     (scale (xyz 0.8 1 0.6666))
     (rotate (xyz -90 0 0))

@@ -302,8 +302,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a3828f9e-8598-480f-8a66-2507b06d3fe1")
 	)
-	(model "/home/benedikt/Development/electronics-library/3d-models/LM5122MHX_NOPB.stp"
-		(hide yes)
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/LM5122MHX_NOPB.stp"
 		(offset
 			(xyz 0 0 0)
 		)
