@@ -1,0 +1,153 @@
+(footprint "HSB43-454515P"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3a9eca92-c663-48a8-be6c-b564ddb4b8ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "HSB43-454515P"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a6482630-3cd0-4c45-8d2e-5326bd9d9e90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a901369-a70b-4548-8c05-db7844f3316c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84cf9faf-9236-4305-b411-f5f592b0ff1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89911b99-bdd2-4eca-8f5d-5a01b40decc5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -22.5 -22.5)
+		(end 22.5 -22.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "fbe6d63f-f92e-4f39-b121-856b275cdea8")
+	)
+	(fp_line
+		(start -22.5 22.5)
+		(end -22.5 -22.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "4de46d64-1065-4cb3-960c-c5363b265c25")
+	)
+	(fp_line
+		(start -22.5 22.5)
+		(end 22.5 22.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "2c59dc52-c2c5-4033-a51c-f19648dcd9d7")
+	)
+	(fp_line
+		(start 22.5 -22.5)
+		(end 22.5 22.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "d78956fb-df92-4661-a988-b7d68db5a762")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b6396df1-55dd-4bd5-a4cf-524f365015a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -19 19)
+		(size 4.5 4.5)
+		(drill 3.45)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "1956c668-e52f-4438-9897-1d3304cf0910")
+	)
+	(pad "" np_thru_hole circle
+		(at 19 -19)
+		(size 4.5 4.5)
+		(drill 3.45)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "4504f842-0a32-4c4d-a769-365a157d03c5")
+	)
+	(pad "PAD" smd rect
+		(at 0 0)
+		(size 34 34)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "51d80ea8-f457-4956-8701-14e345830640")
+	)
+	(model "/home/benedikt/Development/electronics-library/3d-models/HSB43-454515P.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
