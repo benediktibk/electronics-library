@@ -1,0 +1,120 @@
+(footprint "heatsink_18x18"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3a9eca92-c663-48a8-be6c-b564ddb4b8ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "heatsink_18x18"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a6482630-3cd0-4c45-8d2e-5326bd9d9e90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a901369-a70b-4548-8c05-db7844f3316c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84cf9faf-9236-4305-b411-f5f592b0ff1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89911b99-bdd2-4eca-8f5d-5a01b40decc5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -9 -9)
+		(end 9 9)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "04ed60df-a871-45fa-ba7a-56f479020a31")
+	)
+	(fp_rect
+		(start -9.1 -9.1)
+		(end 9.1 9.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "66372b7b-9ce7-4620-b120-c0743452dd17")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b6396df1-55dd-4bd5-a4cf-524f365015a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "PAD" smd rect
+		(at 0 0)
+		(size 18 18)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "51d80ea8-f457-4956-8701-14e345830640")
+	)
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/HSB06-181810.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
