@@ -3009,7 +3009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "80-ESK478M050AQ3AA"
+		(property "Mouser Part Number" "80-ESK478M050AQ3AA"
 			(at 17.526 1.27 0)
 			(effects
 				(font
@@ -3332,7 +3332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "647-UCD1J471MNQ1MS "
+		(property "Mouser Part Number" "647-UCD1J471MNQ1MS "
 			(at 0 0 0)
 			(effects
 				(font
@@ -7457,7 +7457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part No" "579-LAN8720ACPABC"
+		(property "Mouser Part Number" "579-LAN8720ACPABC"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9908,7 +9908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "584-LT8584EFE#PBF"
+		(property "Mouser Part Number" "584-LT8584EFE#PBF"
 			(at 26.67 -494.92 0)
 			(effects
 				(font
@@ -11598,7 +11598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "994-NA6252-ALD"
+		(property "Mouser Part Number" "994-NA6252-ALD"
 			(at 16.51 -494.92 0)
 			(effects
 				(font
@@ -17015,7 +17015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "78-SIJA22DP-T1-GE3"
+		(property "Mouser Part Number" "78-SIJA22DP-T1-GE3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -18191,7 +18191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part No" "511-STM32F407VGT6TR"
+		(property "Mouser Part Number" "511-STM32F407VGT6TR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -22810,7 +22810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "490-HSB06-181810"
+		(property "Mouser Part Number" "490-HSB06-181810"
 			(at 0.508 5.842 0)
 			(effects
 				(font
@@ -23029,7 +23029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "984-CPX04504-164C2R0"
+		(property "Mouser Part Number" "984-CPX04504-164C2R0"
 			(at 0 0 0)
 			(effects
 				(font
@@ -23126,7 +23126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser order number" "179-HSB43-454515P "
+		(property "Mouser Part Number" "179-HSB43-454515P "
 			(at 0.508 5.842 0)
 			(effects
 				(font
@@ -23244,7 +23244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part No" "651-1881626"
+		(property "Mouser Part Number" "651-1881626"
 			(at 16.51 -494.92 0)
 			(effects
 				(font
