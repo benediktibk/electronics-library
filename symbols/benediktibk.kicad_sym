@@ -193,6 +193,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "649-10118194-0001LF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "AMPHENOL_micro_usb_10118194-0001LF_0_0"
 			(rectangle
 				(start -6.35 10.16)
@@ -459,6 +468,14 @@
 			)
 		)
 		(property "RS order number" "159-2372"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "200-FTSH10501FDVK"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1108,6 +1125,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "637-BAT54WS"
+			(at -1.524 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "diode Schottky"
 			(at 0 0 0)
 			(effects
@@ -1263,6 +1289,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "81-BLM11P300S"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "L ferrite bead inductor filter"
 			(at 0 0 0)
 			(effects
@@ -1410,6 +1445,15 @@
 			)
 		)
 		(property "RS order number" "215-6593"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "522-BS250FTA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5717,6 +5761,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "621-DMN3404L-7"
+			(at -2.54 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "transistor NMOS N-MOS N-MOSFET"
 			(at 0 0 0)
 			(effects
@@ -6301,6 +6354,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "895-FT230XS-R"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "FTDI USB UART interface converter"
 			(at 0 0 0)
 			(effects
@@ -6675,6 +6737,15 @@
 			)
 		)
 		(property "RS order number" "197-2514"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "968-ICL7660CBAZ-T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -7284,6 +7355,15 @@
 			)
 		)
 		(property "RS order number" "228-2997"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "511-L6982CDR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8094,6 +8174,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "604-AP1608SGC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LED diode"
 			(at 0 0 0)
 			(effects
@@ -8282,6 +8371,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "604-APH1608SURCK"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LED diode"
 			(at 0 0 0)
 			(effects
@@ -8462,6 +8560,15 @@
 			)
 		)
 		(property "RS order number" "861-0087"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "604-APG1608SYKC/T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12494,6 +12601,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "279-CRGH0603F100R"
+			(at -17.78 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -13024,6 +13140,15 @@
 			)
 		)
 		(property "RS order number" "199-5452"
+			(at -17.78 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "603-RC0603FR-07120RL"
 			(at -17.78 1.27 0)
 			(effects
 				(font
@@ -14359,6 +14484,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-0727RL"
+			(at -17.78 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -14741,6 +14875,15 @@
 			)
 		)
 		(property "RS order number" "231-3683"
+			(at -17.78 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "660-TLR3APSDTE2L00F7"
 			(at -17.78 1.27 0)
 			(effects
 				(font
@@ -17030,6 +17173,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "621-SBR2065D1-13"
+			(at -1.524 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "diode Schottky"
 			(at 0 0 0)
 			(effects
@@ -18128,6 +18280,15 @@
 			)
 		)
 		(property "RS order number" "795-8779"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "511-STC3100IST"
 			(at 0 0 0)
 			(effects
 				(font
@@ -21711,6 +21872,15 @@
 			)
 		)
 		(property "RS order number" "171-2479"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "757-TJ40S04M3LT6L1NQ"
 			(at 0 0 0)
 			(effects
 				(font
