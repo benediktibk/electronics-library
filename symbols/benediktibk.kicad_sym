@@ -4206,6 +4206,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "77-VJ0603A561JXAAC"
+			(at 17.526 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(effects
@@ -13583,6 +13592,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "603-RC0603FR-101KL"
+			(at -17.78 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -18026,6 +18044,15 @@
 			)
 		)
 		(property "RS order number" "188-5140"
+			(at -2.54 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "78-SQJA42EP-T1_GE3"
 			(at -2.54 -5.08 0)
 			(effects
 				(font
