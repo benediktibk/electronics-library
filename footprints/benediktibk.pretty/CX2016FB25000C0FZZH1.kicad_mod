@@ -1,0 +1,236 @@
+(footprint "CX2016FB25000C0FZZH1"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "2.0mm x 1.6mm x 0.55mm")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at -1 -3 0)
+		(layer "F.SilkS")
+		(uuid "af5a675c-ad2d-434c-9fe9-0a2e93fb0c05")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CX2016FB25000C0FZZH1"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7e3c92ef-f070-45e7-b377-7f41c71ae7d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21f18c48-8c2c-4998-8d20-728492f6e9f5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "161750d6-a518-4a17-84c5-f6331d714f2f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f3234796-7b66-4540-9f92-85138da37505")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.7 0.55)
+		(end -1.7 0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f6a78fc-a85d-413b-96a6-5041bd0571a5")
+	)
+	(fp_line
+		(start -1.6 0.55)
+		(end -1.6 0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "caf7a23d-f036-4623-83a8-86c17a143f9f")
+	)
+	(fp_arc
+		(start -1.7 0.55)
+		(mid -1.65 0.5)
+		(end -1.6 0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1186ca29-1abf-4209-9485-4cfa40c272e0")
+	)
+	(fp_arc
+		(start -1.6 0.55)
+		(mid -1.65 0.6)
+		(end -1.7 0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1fc2421b-d5a6-411c-949b-9809c5576e21")
+	)
+	(fp_line
+		(start -2.15 -1.95)
+		(end 2.15 -1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "febd2354-070c-4cca-bb5b-53b271f68388")
+	)
+	(fp_line
+		(start -2.15 1.95)
+		(end -2.15 -1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bea0c9d1-360c-4ef0-850a-018b6f1d00e1")
+	)
+	(fp_line
+		(start 2.15 -1.95)
+		(end 2.15 1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1a162e72-143f-40af-8637-749f53ba54fe")
+	)
+	(fp_line
+		(start 2.15 1.95)
+		(end -2.15 1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e507ecec-ef53-4ce6-a869-e5c3a23fdbe6")
+	)
+	(fp_line
+		(start -1 -0.8)
+		(end -1 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3e67208-f608-4f0d-b989-eddfd46948d0")
+	)
+	(fp_line
+		(start -1 0.8)
+		(end 1 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97680998-4439-4ed1-b425-59f184e4a0ec")
+	)
+	(fp_line
+		(start 1 -0.8)
+		(end -1 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93f8a584-f369-4524-b7b8-8ef00d6b980a")
+	)
+	(fp_line
+		(start 1 0.8)
+		(end 1 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "70f0dbb5-a877-43d3-98e1-5b319da66d97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "8fc55bf5-7e75-4757-b633-50879ea64975")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.7 0.55 90)
+		(size 0.8 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a64bea94-e310-4077-ab69-532d49665fe5")
+	)
+	(pad "2" smd rect
+		(at 0.7 0.55 90)
+		(size 0.8 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e3c0d061-a98d-4258-b4aa-2ef0a201cf50")
+	)
+	(pad "3" smd rect
+		(at 0.7 -0.55 90)
+		(size 0.8 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1da4d740-41af-47aa-ad04-2f84c815eb6f")
+	)
+	(pad "4" smd rect
+		(at -0.7 -0.55 90)
+		(size 0.8 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5074dedc-b3f0-482b-8bec-fccd71b936e9")
+	)
+	(model "${BENEDIKTIBK_LIB_DIR}/3d-models/CX2016FB25000C0FZZH1.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
